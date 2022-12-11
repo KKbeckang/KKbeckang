@@ -1,5 +1,7 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)]([https://rishavchanda.io](https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true))
+<p align="certer"> <img src="https://i.ibb.co/YT0tDtn/undefined-Imgur.gif" alt="undefined-Imgur" alt="kkbekang" /> </p>
 <h1 align="center">Hi 👋, I'm Rongd Kang</h1>
+
+
 <h3 align="center">A full-stack development Software Engineering explorer</h3>
 <h1 align= "Center"><img alig="center" alt = "FunGIf" witdth ="400" src = "https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif"> </h1>
 
