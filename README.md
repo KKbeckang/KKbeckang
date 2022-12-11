@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rongdakangkk@gmail.com**
 
-- ⚡ Fun fact **"Hey! It compiles! Ship it!"**
+- ⚡ Fun line **"Hey! It compiles! Ship it!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
