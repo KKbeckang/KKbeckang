@@ -1,4 +1,4 @@
-<p align="certer"> <img src="https://i.ibb.co/YT0tDtn/undefined-Imgur.gif" alt="undefined-Imgur" alt="kkbekang" /> </p>
+[![MasterHead](https://www.icegif.com/wp-content/uploads/welcome-icegif-3.gif)]()
 <h1 align="center">Hi 👋, I'm Rongd Kang</h1>
 
 
