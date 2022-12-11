@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rongd Kang</h1>
 <h3 align="center">A full-stack development Software Engineering explorer</h3>
 
+<img alig="right" alt = "FunGIf" witdth ="500" src = "https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkbeckang&label=Profile%20views&color=0e75b6&style=flat" alt="kkbeckang" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kkbeckang" alt="kkbeckang" /></a> </p>
