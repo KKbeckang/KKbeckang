@@ -4,7 +4,7 @@
 
 
 
-<h2 align="Center">A full-stack development Exploer Studying Master of Science in Software Engineering </h2>
+<h2 align="Center">A full-stack development Explorer Studying Master of Science in Software Engineering </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkbeckang&label=Profile%20views&color=0e75b6&style=flat" alt="kkbeckang" /> </p>
 
