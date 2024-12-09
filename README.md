@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React Native and Figma**
 
-- 👨‍💻 All of my projects are available at [rongdakang.net](www.rongdakang.com)
+- 👨‍💻 All of my projects are available at [rongdakang.net](www.rongdakang.net)
 
 - 💬 Ask me about **React, Python, Java**
 
