@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkbeckang&label=Profile%20views&color=0e75b6&style=flat" alt="kkbeckang" /> </p>
 
 
-- 🔭 I’m currently working on [RentPipe](https://github.com/KKbeckang/RentPipe)
+- 🔭 I’m currently working on at Factorial Inc
 
 - 🌱 I’m currently learning **React Native and Figma**
 
